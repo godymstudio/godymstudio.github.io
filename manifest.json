@@ -1,0 +1,24 @@
+{
+  "name": "GODYM Note",
+  "short_name": "Godym",
+  "start_url": "/godym-note/",
+  "scope": "/godym-note/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Professional note taking app",
+  "icons": [
+    {
+      "src": "/godym-note/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/godym-note/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
