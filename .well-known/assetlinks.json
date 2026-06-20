@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.godymstudio.twa",
+    "sha256_cert_fingerprints": [
+      "66:DA:EC:F4:C1:77:92:9F:5F:A5:78:03:A9:6B:DB:B4:37:0A:6F:B8:9D:69:F7:1B:C6:FF:C2:A4:AD:A8:20:2C"
+    ]
+  }
+}]
